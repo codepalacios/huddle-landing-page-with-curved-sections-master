@@ -11,7 +11,7 @@ function NewsletterForm() {
   };
 
   return (
-    <div className="pt-14 px-7 pb-[6.5rem]">
+    <div className="pt-14 px-7 pb-[6.5rem] max-w-[26.625rem] mx-auto">
       <h2 className="mb-4 font-bold text-xl">Newsletter</h2>
       <p className="mb-8 font-semibold text-sm">
         To recieve tips on how to grow your community, sign up to our weekly

@@ -2,7 +2,7 @@ import React from "react";
 
 function CallToActionSection() {
   return (
-    <article className="px-4 text-center">
+    <article className="px-4 text-center max-w-[26.625rem] mx-auto">
       <h2 className="mb-10 font-poppins font-bold text-2xl text-neuVeryDarkCyan">
         Ready To Build Your Community?
       </h2>

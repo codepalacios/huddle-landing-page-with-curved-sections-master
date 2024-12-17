@@ -4,7 +4,7 @@ import ScreenMockups from "../../assets/images/screen-mockups.svg";
 
 function HeroSection() {
   return (
-    <header className="font-openSans">
+    <header className="font-openSans max-w-[26.625rem] mx-auto">
       <HeroNav />
       <div className="mt-28 mb-[7.5rem] px-10 text-center text-neuVeryDarkCyan">
         <h1 className="mb-6 font-poppins font-bold text-2xl leading-9">

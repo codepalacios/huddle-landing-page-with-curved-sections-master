@@ -43,6 +43,10 @@ module.exports = {
       backgroundPosition: {
         'bottom-5': 'center bottom -0.125rem',
       },
+      screens: {
+        // Tablet
+        'tab': '426px',
+      },
     },
   },
   plugins: [],

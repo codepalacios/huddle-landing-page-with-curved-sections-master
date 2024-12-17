@@ -5,7 +5,7 @@ import iconEmail from "../../assets/images/icon-email.svg";
 
 function ContactInfo() {
   return (
-    <div className="px-7 pb-[2.875rem] text-sm">
+    <div className="px-7 pb-[2.875rem] text-sm max-w-[26.625rem] mx-auto">
       <img className="w-[12.5rem] h-8 mb-4" src={logoFooter} alt="logo" />
       <p className="mb-10 font-semibold">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nulla
