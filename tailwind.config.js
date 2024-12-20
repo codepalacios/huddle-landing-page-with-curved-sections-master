@@ -17,9 +17,9 @@ module.exports = {
       },
       boxShadow: {
         btnHeroTif: "0px 0px 5px rgba(255, 82, 193, 0.218778)",
-        btnHoverHeroTif: "0px 0px 9px rgba(255, 82, 193, 0.218778);",
+        btnDesktopHeroTif: "0px 0px 9px rgba(255, 82, 193, 0.218778);",
         btnContentGsff: "0px 3px 7px rgba(0, 37, 46, 0.223053)",
-        btnHoverContentGsff: "0px 6px 13px rgba(0, 37, 46, 0.223053)",
+        btnDesktopContentGsff: "0px 6px 13px rgba(0, 37, 46, 0.223053)",
       },
       fontFamily: {
         openSans: ["Open Sans", "sans-serif"],

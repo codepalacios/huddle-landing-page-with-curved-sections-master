@@ -5,7 +5,7 @@ import { CallToActionSection } from "./CallToActionSection";
 
 function ContentSection() {
   return (
-    <main>
+    <main className="mx-auto max-w-[90rem]">
       <StatsSection />
       <FeaturesSection />
       <CallToActionSection />
