@@ -1,7 +1,9 @@
 {
   "name": "huddle-landing-page-with-curved-sections-master",
   "version": "0.1.0",
+  "description": "Frontend Mentor Huddle landing page with curved sections challenge",
   "private": true,
+  "author": "codepalacios",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
